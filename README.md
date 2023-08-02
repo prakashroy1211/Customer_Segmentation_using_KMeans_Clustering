@@ -14,3 +14,7 @@ So, here the optimal number of clusters is 5.
 Gender distribution is represented using a bar graph and age distribution is represented using histogram.
 <br><br>
 ![Gender and Age Distribution](https://github.com/prakashroy1211/Customer_Segmentation_using_KMeans_Clustering/blob/main/Gender_and_Age_Distribution.png)
+## Customer Segmentation
+Customer Segmentation is represented using a Scatter Plot.
+<br><br>
+![Customer Segmentation using Scatter Plot](https://github.com/prakashroy1211/Customer_Segmentation_using_KMeans_Clustering/blob/main/Customer_Segmentation_Scatter_Plot.png)
