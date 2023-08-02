@@ -4,5 +4,6 @@ clustering, identify segments of customers to target the potential user base. Th
 customers into groups according to common characteristics like gender, age, interests,
 and spending habits so they can market to each group effectively.
 
-## Result
-![Customer Segmentation]()
+## Elbow Method
+This method is used to find the optimal number of clusters.
+![Elbow Method_Line Graph]()
